@@ -1,0 +1,3 @@
+/home/data5/cwp/opencode_program/my_revise/build/CMakeFiles/rebuild_cache.dir
+/home/data5/cwp/opencode_program/my_revise/build/CMakeFiles/edit_cache.dir
+/home/data5/cwp/opencode_program/my_revise/build/CMakeFiles/simple_server.dir

@@ -1,0 +1,132 @@
+[
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/WebApps/GomokuServer/src/main.cpp.o -c /home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/main.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/main.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/HttpServer/src/http/HttpContext.cpp.o -c /home/data5/cwp/opencode_program/my_revise/HttpServer/src/http/HttpContext.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/HttpServer/src/http/HttpContext.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/HttpServer/src/http/HttpRequest.cpp.o -c /home/data5/cwp/opencode_program/my_revise/HttpServer/src/http/HttpRequest.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/HttpServer/src/http/HttpRequest.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/HttpServer/src/http/HttpResponse.cpp.o -c /home/data5/cwp/opencode_program/my_revise/HttpServer/src/http/HttpResponse.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/HttpServer/src/http/HttpResponse.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/HttpServer/src/http/HttpServer.cpp.o -c /home/data5/cwp/opencode_program/my_revise/HttpServer/src/http/HttpServer.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/HttpServer/src/http/HttpServer.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/HttpServer/src/middleware/MiddlewareChain.cpp.o -c /home/data5/cwp/opencode_program/my_revise/HttpServer/src/middleware/MiddlewareChain.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/HttpServer/src/middleware/MiddlewareChain.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/HttpServer/src/middleware/cors/CorsMiddleware.cpp.o -c /home/data5/cwp/opencode_program/my_revise/HttpServer/src/middleware/cors/CorsMiddleware.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/HttpServer/src/middleware/cors/CorsMiddleware.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/HttpServer/src/router/Router.cpp.o -c /home/data5/cwp/opencode_program/my_revise/HttpServer/src/router/Router.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/HttpServer/src/router/Router.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/HttpServer/src/session/Session.cpp.o -c /home/data5/cwp/opencode_program/my_revise/HttpServer/src/session/Session.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/HttpServer/src/session/Session.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/HttpServer/src/session/SessionManager.cpp.o -c /home/data5/cwp/opencode_program/my_revise/HttpServer/src/session/SessionManager.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/HttpServer/src/session/SessionManager.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/HttpServer/src/session/SessionStorage.cpp.o -c /home/data5/cwp/opencode_program/my_revise/HttpServer/src/session/SessionStorage.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/HttpServer/src/session/SessionStorage.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/HttpServer/src/ssl/SslConfig.cpp.o -c /home/data5/cwp/opencode_program/my_revise/HttpServer/src/ssl/SslConfig.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/HttpServer/src/ssl/SslConfig.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/HttpServer/src/ssl/SslConnection.cpp.o -c /home/data5/cwp/opencode_program/my_revise/HttpServer/src/ssl/SslConnection.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/HttpServer/src/ssl/SslConnection.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/HttpServer/src/ssl/SslContext.cpp.o -c /home/data5/cwp/opencode_program/my_revise/HttpServer/src/ssl/SslContext.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/HttpServer/src/ssl/SslContext.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/HttpServer/src/utils/db/DbConnection.cpp.o -c /home/data5/cwp/opencode_program/my_revise/HttpServer/src/utils/db/DbConnection.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/HttpServer/src/utils/db/DbConnection.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/HttpServer/src/utils/db/DbConnectionPool.cpp.o -c /home/data5/cwp/opencode_program/my_revise/HttpServer/src/utils/db/DbConnectionPool.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/HttpServer/src/utils/db/DbConnectionPool.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/WebApps/GomokuServer/src/AiGame.cpp.o -c /home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/AiGame.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/AiGame.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/WebApps/GomokuServer/src/GomokuServer.cpp.o -c /home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/GomokuServer.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/GomokuServer.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/WebApps/GomokuServer/src/handlers/AiGameMoveHandler.cpp.o -c /home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/handlers/AiGameMoveHandler.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/handlers/AiGameMoveHandler.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/WebApps/GomokuServer/src/handlers/AiGameStartHandler.cpp.o -c /home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/handlers/AiGameStartHandler.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/handlers/AiGameStartHandler.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/WebApps/GomokuServer/src/handlers/EntryHandler.cpp.o -c /home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/handlers/EntryHandler.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/handlers/EntryHandler.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/WebApps/GomokuServer/src/handlers/GameBackendHandler.cpp.o -c /home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/handlers/GameBackendHandler.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/handlers/GameBackendHandler.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/WebApps/GomokuServer/src/handlers/LoginHandler.cpp.o -c /home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/handlers/LoginHandler.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/handlers/LoginHandler.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/WebApps/GomokuServer/src/handlers/Loginout.cpp.o -c /home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/handlers/Loginout.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/handlers/Loginout.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/WebApps/GomokuServer/src/handlers/MenuHandler.cpp.o -c /home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/handlers/MenuHandler.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/handlers/MenuHandler.cpp"
+},
+{
+  "directory": "/home/data5/cwp/opencode_program/my_revise/build",
+  "command": "/usr/bin/g++-9   -I/home/data5/cwp/opencode_program/my_revise -I/home/data5/cwp/opencode_program/my_revise/include -I/home/data5/cwp/opencode_program/my_revise/HttpServer/include -I/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql  -g   -std=gnu++17 -o CMakeFiles/simple_server.dir/WebApps/GomokuServer/src/handlers/RegisterHandler.cpp.o -c /home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/handlers/RegisterHandler.cpp",
+  "file": "/home/data5/cwp/opencode_program/my_revise/WebApps/GomokuServer/src/handlers/RegisterHandler.cpp"
+}
+]

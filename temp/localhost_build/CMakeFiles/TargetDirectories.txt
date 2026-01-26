@@ -1,0 +1,3 @@
+/home/admin/Kama-HTTPServer/build/CMakeFiles/simple_server.dir
+/home/admin/Kama-HTTPServer/build/CMakeFiles/edit_cache.dir
+/home/admin/Kama-HTTPServer/build/CMakeFiles/rebuild_cache.dir
